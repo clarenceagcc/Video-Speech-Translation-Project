@@ -79,7 +79,3 @@ This project implements a video speech translation pipeline using several open-s
     * Once language support is added, explore voice cloning models for a more personalized experience.
 * **Subtitle Generation:**
     * Generate subtitle files(srt, vtt) of both the original transcription, and the translated text.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
